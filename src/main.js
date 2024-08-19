@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import '@fontsource/jost';
+import './assets/styles/main.scss';
 import App from './App.vue'
 
 
