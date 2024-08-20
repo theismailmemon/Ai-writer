@@ -40,7 +40,7 @@
           </button>
 
           <button
-            class="flex items-center gap-4 text-[1.2rem] mt-4 font-[500] hover:text-[#b08f6c]"
+            class="flex items-center gap-4 text-[1.2rem] mt-4 font-medium hover:text-[#b08f6c]"
           >
             <span class="text-[#b08f6c]">
               <svg
@@ -110,7 +110,7 @@
           </button>
 
           <button
-            class="flex items-center gap-4 text-[1.2rem] mt-4 font-[500] hover:text-[#b08f6c]"
+            class="flex items-center gap-4 text-[1.2rem] mt-4 font-medium hover:text-[#b08f6c]"
           >
             <span class="text-[#b08f6c]">
               <svg
