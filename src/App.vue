@@ -5,7 +5,7 @@
     </div>
     <div>
       <Header />
-      <Content />
+      <DocumentContent />
     </div>
   </div>
 </template>
@@ -13,13 +13,13 @@
 <script>
 import Header from "./components/Header.vue";
 import Sidebar from "./components/Sidebar.vue";
-import Content from "./components/Content.vue";
+import DocumentContent from "./components/Content.vue";
 export default {
   name: "App",
   components: {
     Header,
     Sidebar,
-    Content,
+    DocumentContent,
   },
 };
 </script>
